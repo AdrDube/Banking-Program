@@ -44,8 +44,8 @@ def main():
             case _: print("Invalid response")     
 def new_file(n):
     '''
-    Creates a new .CSV file n with a balance of 100
 
+    Creates a new .CSV file n with a balance of 100
     :param n: Name of file
     :type n: str
     :raise TypeError If n is not a str
