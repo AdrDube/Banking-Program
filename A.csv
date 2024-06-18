@@ -1,0 +1,34 @@
+Transaction, Amount(USD), Balance(USD)
+Sign on bonus,100.00 ,100.00
+Withdrawal,50.00, 50.00
+Withdrawal,60.00, -10.00
+Deposit,60.00,50.00
+Deposit,50.00,100.00
+Withdrawal,50.00, 50.00
+Withdrawal,60.00, -10.00
+Deposit,60.00,50.00
+Deposit,50.00,100.00
+Withdrawal,50.00, 50.00
+Withdrawal,60.00, -10.00
+Deposit,60.00,50.00
+Deposit,50.00,100.00
+Withdrawal,50.00, 50.00
+Withdrawal,60.00, -10.00
+Deposit,60.00,50.00
+Deposit,50.00,100.00
+Withdrawal,50.00, 50.00
+Withdrawal,60.00, -10.00
+Deposit,60.00,50.00
+Deposit,50.00,100.00
+Withdrawal,50.00, 50.00
+Withdrawal,60.00, -10.00
+Deposit,60.00,50.00
+Deposit,50.00,100.00
+Withdrawal,50.00, 50.00
+Withdrawal,60.00, -10.00
+Deposit,60.00,50.00
+Deposit,50.00,100.00
+Withdrawal,50.00, 50.00
+Withdrawal,60.00, -10.00
+Deposit,60.00,50.00
+Deposit,50.00,100.00
