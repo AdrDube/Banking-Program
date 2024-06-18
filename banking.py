@@ -8,7 +8,10 @@ from tabulate import tabulate
 
 import time
 def main():
-    account=sys.argv[1]+".csv"
+    if len(sys.argv)>1:
+         account=sys.argv[1]+".csv"
+    else:
+         account=(input("Enter your account name ")).strip()+".csv"
     new_file(account)
     print("Welcome to the Dube Express bank account service")
     choice=input(f"what would you like to do today:\na) View Balance\nb) View Transactions\nc) Withdraw/Deposit ").strip().lower()
@@ -41,7 +44,7 @@ def main():
             case _: print("Invalid response")     
 def new_file(n):
     '''
-    Creates a new csv file n with a balance of 100
+    Creates a new .CSV file n with a balance of 100
 
     :param n: Name of file
     :type n: str
